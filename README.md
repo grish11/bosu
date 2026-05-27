@@ -1,5 +1,5 @@
 # bosu
-A fun little terminal animation inspired by [sl](https://github.com/mtoyoda/sl). Its just default chan changing her face :3 
+A fun little terminal animation inspired by [sl](https://github.com/mtoyoda/sl). Its just default chan (from osu) changing her face :3 
 
 <img width="800" height="653" alt="bosu" src="https://github.com/user-attachments/assets/d80a61d8-ea8b-4255-9af1-85b8c61611f9" />
 
