@@ -4,14 +4,11 @@
 #include <signal.h>
 #include <time.h>
 
+#include "bosu.h"
+
 # define FRAME_RATE 60
 # define FRAME_COUNT 3
 
-const char *frames[] = {
-  "    ()    ",
-  "   (  )   ",
-  " (      ) ",
-};
 
 /**
  * Sleep for a given number of milliseconds
