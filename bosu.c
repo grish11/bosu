@@ -40,7 +40,7 @@ int main() {
   int max_x, max_y;
   getmaxyx(stdscr, max_y, max_x);
 
-  int repeats = 13;
+  int repeats = 6;
   while (repeats != 0) {
     // Iter through the frames in frames array located in frames.h file
     for (int i = 0; i < FRAME_COUNT; i++) {
