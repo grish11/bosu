@@ -112,10 +112,10 @@ const char *frame3[] = {
 };
 
 
-const char **frames[] = {frame1, frame2, frame3 };
+const char *frameNULL[] = { NULL };
+
+const char **frames[] = {frame1, frame2, frame3, frameNULL };
 
 
-
-#define FRAME_COUNT 3
 
 #endif
