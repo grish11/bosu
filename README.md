@@ -9,7 +9,7 @@ A fun little terminal animation inspired by [sl](https://github.com/mtoyoda/sl).
 # Installation
 
 ```bash
-git clone https://github.com/you/bosu
+git clone https://github.com/grish11/bosu
 cd bosu
 ```
 
